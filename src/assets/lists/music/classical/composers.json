@@ -1,0 +1,151 @@
+[{
+        "name": "Johann Sebastian Bach ",
+        "born": 1685,
+        "died": 1750
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart ",
+        "born": 1756,
+        "died": 1791
+    },
+    {
+        "name": "Ludwig van Beethoven ",
+        "born": 1770,
+        "died": 1827
+    },
+    {
+        "name": "Hildegard von Bingen ",
+        "born": 1098,
+        "died": 1179
+    },
+    {
+        "name": "Claudio Monteverdi ",
+        "born": 1567,
+        "died": 1643
+    },
+    {
+        "name": "George Frideric Handel ",
+        "born": 1685,
+        "died": 1759
+    },
+    {
+        "name": "Antonio Vivaldi ",
+        "born": 1678,
+        "died": 1741
+    },
+    {
+        "name": "Claude Debussy ",
+        "born": 1862,
+        "died": 1918
+    },
+    {
+        "name": "Pyotr Ilyich Tchaikovsky ",
+        "born": 1840,
+        "died": 1893
+    },
+    {
+        "name": "Joseph Haydn ",
+        "born": 1732,
+        "died": 1809
+    },
+    {
+        "name": "Robert Schumann ",
+        "born": 1810,
+        "died": 1856
+    },
+    {
+        "name": "Edward Elgar ",
+        "born": 1857,
+        "died": 1934
+    },
+    {
+        "name": "Giuseppe Verdi ",
+        "born": 1813,
+        "died": 1901
+    },
+    {
+        "name": "Richard Wagner ",
+        "born": 1813,
+        "died": 1883
+    },
+    {
+        "name": "Richard Strauss ",
+        "born": 1864,
+        "died": 1949
+    },
+    {
+        "name": "Gustav Mahler ",
+        "born": 1860,
+        "died": 1911
+    },
+    {
+        "name": "Franz Schubert ",
+        "born": 1797,
+        "died": 1828
+    },
+    {
+        "name": "Camille Saint-Saëns ",
+        "born": 1835,
+        "died": 1921
+    },
+    {
+        "name": "Igor Stravinsky ",
+        "born": 1882,
+        "died": 1971
+    },
+    {
+        "name": "Frédéric Chopin ",
+        "born": 1810,
+        "died": 1849
+    },
+    {
+        "name": "Vaughan Williams ",
+        "born": 1872,
+        "died": 1958
+    },
+    {
+        "name": "Amy Beach ",
+        "born": 1867,
+        "died": 1944
+    },
+    {
+        "name": "Felix Mendelssohn ",
+        "born": 1809,
+        "died": 1847
+    },
+    {
+        "name": "Dmitri Shostakovich ",
+        "born": 1906,
+        "died": 1975
+    },
+    {
+        "name": "Johannes Brahms ",
+        "born": 1833,
+        "died": 1897
+    },
+    {
+        "name": "Antonin Dvořák ",
+        "born": 1841,
+        "died": 1904
+    },
+    {
+        "name": "Sergei Rachmaninov ",
+        "born": 1873,
+        "died": 1943
+    },
+    {
+        "name": "Philip Glass ",
+        "born": 1937,
+        "died": null
+    },
+    {
+        "name": "Leonard Bernstein ",
+        "born": 1918,
+        "died": 1990
+    },
+    {
+        "name": "John Williams ",
+        "born": 1932,
+        "died": null
+    }
+]

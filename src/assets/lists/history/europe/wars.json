@@ -1,0 +1,676 @@
+[{
+        "name": "First Messenian War",
+        "start": "735 BCE",
+        "end": "715 BCE"
+    },
+    {
+        "name": "Lelantine War",
+        "start": "720 BCE",
+        "end": "680 BCE"
+    },
+    {
+        "name": "Lelantine War",
+        "start": "720 BCE",
+        "end": "680 BCE"
+    },
+    {
+        "name": "Second Messenian War",
+        "start": "660 BCE",
+        "end": "660 BCE"
+    },
+    {
+        "name": "Greco-Persian Wars",
+        "start": "492 BCE",
+        "end": "449 BCE"
+    },
+    {
+        "name": "Peloponnesian War",
+        "start": "431 BCE",
+        "end": "404 BCE"
+    },
+    {
+        "name": "Lamian War",
+        "start": "323 BCE",
+        "end": "322 BCE"
+    },
+    {
+        "name": "First Punic War",
+        "start": "264 BCE",
+        "end": "241 BCE"
+    },
+    {
+        "name": "Second Punic War",
+        "start": "218 BCE",
+        "end": "201 BCE"
+    },
+    {
+        "name": "Third Punic War",
+        "start": "149 BCE",
+        "end": "146 BCE"
+    },
+    {
+        "name": "Gallic Wars",
+        "start": "58 BCE",
+        "end": "50 BCE"
+    },
+    {
+        "name": "Jinshin-no-ran",
+        "start": "672",
+        "end": "672"
+    },
+    {
+        "name": "Norman Conquest",
+        "start": "1066",
+        "end": "1066"
+    },
+    {
+        "name": "Crusades",
+        "start": "1095",
+        "end": "1291"
+    },
+    {
+        "name": "Gempei War",
+        "start": "1180",
+        "end": "1185"
+    },
+    {
+        "name": "Barons’ War",
+        "start": "1264",
+        "end": "1267"
+    },
+    {
+        "name": "Hundred Years’ War",
+        "start": "1337",
+        "end": "1453"
+    },
+    {
+        "name": "War of the Eight Saints",
+        "start": "1375",
+        "end": "1378"
+    },
+    {
+        "name": "Hundred Years’ War",
+        "start": "1337",
+        "end": "1453"
+    },
+    {
+        "name": "Thirteen Years’ War",
+        "start": "1454",
+        "end": "1466"
+    },
+    {
+        "name": "Wars of the Roses",
+        "start": "1455",
+        "end": "1485"
+    },
+    {
+        "name": "Ōnin War",
+        "start": "1467",
+        "end": "1477"
+    },
+    {
+        "name": "Count’s War",
+        "start": "1534",
+        "end": "1536"
+    },
+    {
+        "name": "Araucanian Wars",
+        "start": "1541",
+        "end": "1558"
+    },
+    {
+        "name": "Livonian War",
+        "start": "1558",
+        "end": "1583"
+    },
+    {
+        "name": "Eighty Years’ War",
+        "start": "1568",
+        "end": "1648"
+    },
+    {
+        "name": "War of the Three Henrys",
+        "start": "1587",
+        "end": "1589"
+    },
+    {
+        "name": "Eighty Years’ War",
+        "start": "1568",
+        "end": "1648"
+    },
+    {
+        "name": "Kalmar War",
+        "start": "1611",
+        "end": "1613"
+    },
+    {
+        "name": "Thirty Years’ War",
+        "start": "1618",
+        "end": "1648"
+    },
+    {
+        "name": "Powhatan War",
+        "start": "1622",
+        "end": "1644"
+    },
+    {
+        "name": "Bishops’ Wars",
+        "start": "1639",
+        "end": "1639"
+    },
+    {
+        "name": "English Civil Wars",
+        "start": "1642",
+        "end": "1651"
+    },
+    {
+        "name": "First Northern War",
+        "start": "1655",
+        "end": "1660"
+    },
+    {
+        "name": "War of Devolution",
+        "start": "1667",
+        "end": "1668"
+    },
+    {
+        "name": "King Philip’s War",
+        "start": "1675",
+        "end": "1676"
+    },
+    {
+        "name": "War of the Grand Alliance",
+        "start": "1689",
+        "end": "1697"
+    },
+    {
+        "name": "King William’s War",
+        "start": "1689",
+        "end": "1697"
+    },
+    {
+        "name": "Second Northern War",
+        "start": "1700",
+        "end": "1721"
+    },
+    {
+        "name": "War of the Spanish Succession",
+        "start": "1701",
+        "end": "1714"
+    },
+    {
+        "name": "War of the Emboabas",
+        "start": "1708",
+        "end": "1709"
+    },
+    {
+        "name": "Carnatic Wars",
+        "start": "1746",
+        "end": "1748"
+    },
+    {
+        "name": "Queen Anne’s War",
+        "start": "1702",
+        "end": "1713"
+    },
+    {
+        "name": "Yamasee War",
+        "start": "1715",
+        "end": "1716"
+    },
+    {
+        "name": "War of the Polish Succession",
+        "start": "1733",
+        "end": "1738"
+    },
+    {
+        "name": "War of Jenkins’ Ear",
+        "start": "1739",
+        "end": "1748"
+    },
+    {
+        "name": "War of the Austrian Succession",
+        "start": "1740",
+        "end": "1748"
+    },
+    {
+        "name": "King George’s War",
+        "start": "1744",
+        "end": "1748"
+    },
+    {
+        "name": "French and Indian War",
+        "start": "1754",
+        "end": "1763"
+    },
+    {
+        "name": "Silesian Wars",
+        "start": "1740",
+        "end": "1742"
+    },
+    {
+        "name": "Seven Years’ War",
+        "start": "1756",
+        "end": "1763"
+    },
+    {
+        "name": "Lord Dunmore’s War",
+        "start": "1774",
+        "end": "1774"
+    },
+    {
+        "name": "Rohilla War",
+        "start": "1774",
+        "end": "1774"
+    },
+    {
+        "name": "American Revolution",
+        "start": "1775",
+        "end": "1783"
+    },
+    {
+        "name": "First Maratha War",
+        "start": "1775",
+        "end": "1782"
+    },
+    {
+        "name": "War of the Bavarian Succession",
+        "start": "1778",
+        "end": "1779"
+    },
+    {
+        "name": "Cape Frontier Wars",
+        "start": "1779",
+        "end": "1879"
+    },
+    {
+        "name": "French Revolution",
+        "start": "1787",
+        "end": "1799"
+    },
+    {
+        "name": "French revolutionary wars",
+        "start": "1792",
+        "end": "1801"
+    },
+    {
+        "name": "Cape Frontier Wars",
+        "start": "1779",
+        "end": "1879"
+    },
+    {
+        "name": "French revolutionary wars",
+        "start": "1792",
+        "end": "1801"
+    },
+    {
+        "name": "War of the Oranges",
+        "start": "1801",
+        "end": "1801"
+    },
+    {
+        "name": "Tripolitan War",
+        "start": "1801",
+        "end": "1805"
+    },
+    {
+        "name": "Second Maratha War",
+        "start": "1803",
+        "end": "1805"
+    },
+    {
+        "name": "Third Maratha War",
+        "start": "1817",
+        "end": "1818"
+    },
+    {
+        "name": "Napoleonic Wars",
+        "start": "1803",
+        "end": "1815"
+    },
+    {
+        "name": "Black War",
+        "start": "1804",
+        "end": "1830"
+    },
+    {
+        "name": "Peninsular War",
+        "start": "1808",
+        "end": "1814"
+    },
+    {
+        "name": "War of 1812",
+        "start": "1812",
+        "end": "1815"
+    },
+    {
+        "name": "Creek War",
+        "start": "1813",
+        "end": "1814"
+    },
+    {
+        "name": "War of Greek Independence",
+        "start": "1821",
+        "end": "1832"
+    },
+    {
+        "name": "Padri War",
+        "start": "1821",
+        "end": "1837"
+    },
+    {
+        "name": "Naning War",
+        "start": "1831",
+        "end": "1832"
+    },
+    {
+        "name": "Pastry War",
+        "start": "1838",
+        "end": "1839"
+    },
+    {
+        "name": "Mexican-American War",
+        "start": "1846",
+        "end": "1848"
+    },
+    {
+        "name": "Crimean War",
+        "start": "1853",
+        "end": "1856"
+    },
+    {
+        "name": "Bleeding Kansas",
+        "start": "1854",
+        "end": "1859"
+    },
+    {
+        "name": "American Civil War",
+        "start": "1861",
+        "end": "1865"
+    },
+    {
+        "name": "War of the Triple Alliance",
+        "start": "1864",
+        "end": "1870"
+    },
+    {
+        "name": "Seven Weeks’ War",
+        "start": "1866",
+        "end": "1866"
+    },
+    {
+        "name": "Selangor Civil War",
+        "start": "1867",
+        "end": "1873"
+    },
+    {
+        "name": "Franco-German War",
+        "start": "1870",
+        "end": "1871"
+    },
+    {
+        "name": "Acehnese War",
+        "start": "1873",
+        "end": "1904"
+    },
+    {
+        "name": "Red River Indian War",
+        "start": "1874",
+        "end": "1875"
+    },
+    {
+        "name": "Serbo-Turkish War",
+        "start": "1876",
+        "end": "1878"
+    },
+    {
+        "name": "Anglo-Zulu War",
+        "start": "1879",
+        "end": "1879"
+    },
+    {
+        "name": "War of the Pacific",
+        "start": "1879",
+        "end": "1883"
+    },
+    {
+        "name": "Gun War",
+        "start": "1880",
+        "end": "1881"
+    },
+    {
+        "name": "Sino-French War",
+        "start": "1883",
+        "end": "1885"
+    },
+    {
+        "name": "Serbo-Bulgarian War",
+        "start": "1885",
+        "end": "1886"
+    },
+    {
+        "name": "Sino-Japanese War",
+        "start": "1894",
+        "end": "1895"
+    },
+    {
+        "name": "Spanish-American War",
+        "start": "1898",
+        "end": "1898"
+    },
+    {
+        "name": "Philippine-American War",
+        "start": "1899",
+        "end": "1902"
+    },
+    {
+        "name": "South African War",
+        "start": "1899",
+        "end": "1902"
+    },
+    {
+        "name": "The War of a Thousand Days",
+        "start": "1899",
+        "end": "1903"
+    },
+    {
+        "name": "Acehnese War",
+        "start": "1873",
+        "end": "1904"
+    },
+    {
+        "name": "Philippine-American War",
+        "start": "1899",
+        "end": "1902"
+    },
+    {
+        "name": "South African War",
+        "start": "1899",
+        "end": "1902"
+    },
+    {
+        "name": "The War of a Thousand Days",
+        "start": "1899",
+        "end": "1903"
+    },
+    {
+        "name": "Boxer Rebellion",
+        "start": "1900",
+        "end": "1901"
+    },
+    {
+        "name": "Moro Wars",
+        "start": "1901",
+        "end": "1913"
+    },
+    {
+        "name": "Russo-Japanese War",
+        "start": "1904",
+        "end": "1905"
+    },
+    {
+        "name": "Pig War",
+        "start": "1906",
+        "end": "1909"
+    },
+    {
+        "name": "Mexican Revolution",
+        "start": "1910",
+        "end": "1920"
+    },
+    {
+        "name": "Italo-Turkish War",
+        "start": "1911",
+        "end": "1912"
+    },
+    {
+        "name": "World War I",
+        "start": "1914",
+        "end": "1918"
+    },
+    {
+        "name": "Baltic War of Liberation",
+        "start": "1918",
+        "end": "1920"
+    },
+    {
+        "name": "Russian Civil War",
+        "start": "1918",
+        "end": "1920"
+    },
+    {
+        "name": "Russo-Polish War",
+        "start": "1919",
+        "end": "1920"
+    },
+    {
+        "name": "Rif War",
+        "start": "1921",
+        "end": "1926"
+    },
+    {
+        "name": "Chaco War",
+        "start": "1932",
+        "end": "1935"
+    },
+    {
+        "name": "Italo-Ethiopian War",
+        "start": "1935",
+        "end": "1936"
+    },
+    {
+        "name": "Spanish Civil War",
+        "start": "1936",
+        "end": "1939"
+    },
+    {
+        "name": "Sino-Japanese War",
+        "start": "1937",
+        "end": "1945"
+    },
+    {
+        "name": "Phony War",
+        "start": "1939",
+        "end": "1940"
+    },
+    {
+        "name": "Russo-Finnish War",
+        "start": "1939",
+        "end": "1940"
+    },
+    {
+        "name": "World War II",
+        "start": "1939",
+        "end": "1945"
+    },
+    {
+        "name": "Greek Civil War",
+        "start": "1944",
+        "end": "1945"
+    },
+    {
+        "name": "Arab-Israeli wars",
+        "start": "1948",
+        "end": "1949"
+    },
+    {
+        "name": "Korean War",
+        "start": "1950",
+        "end": "1953"
+    },
+    {
+        "name": "Algerian War",
+        "start": "1954",
+        "end": "1962"
+    },
+    {
+        "name": "Vietnam War",
+        "start": "1954",
+        "end": "1975"
+    },
+    {
+        "name": "Six-Day War",
+        "start": "1967",
+        "end": "1967"
+    },
+    {
+        "name": "War of Attrition",
+        "start": "1969",
+        "end": "1970"
+    },
+    {
+        "name": "Yom Kippur War",
+        "start": "1973",
+        "end": "1973"
+    },
+    {
+        "name": "Dirty War",
+        "start": "1976",
+        "end": "1983"
+    },
+    {
+        "name": "Afghan War",
+        "start": "1978",
+        "end": "1992"
+    },
+    {
+        "name": "Iran-Iraq War",
+        "start": "1980",
+        "end": "1988"
+    },
+    {
+        "name": "Falkland Islands War",
+        "start": "1982",
+        "end": "1982"
+    },
+    {
+        "name": "Persian Gulf War",
+        "start": "1990",
+        "end": "1991"
+    },
+    {
+        "name": "Bosnian conflict",
+        "start": "1992",
+        "end": "1995"
+    },
+    {
+        "name": "Kosovo conflict",
+        "start": "1998",
+        "end": "1999"
+    },
+    {
+        "name": "Afghanistan War",
+        "start": "2001",
+        "end": "2014"
+    },
+    {
+        "name": "Iraq War",
+        "start": "2003",
+        "end": "2011"
+    },
+    {
+        "name": "Syrian Civil War",
+        "start": "2011",
+        "end": "2023"
+    }
+]

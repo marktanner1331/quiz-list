@@ -1,0 +1,39 @@
+h2 {
+    text-align: center;
+}
+
+#configTable {
+    margin: auto;
+    th,
+    td {
+        padding: 5px 10px;
+    }
+    th {
+        font-weight: bold;
+        font-size: 115%;
+    }
+    tr>td:not(:first-child)>input {
+        margin: auto;
+        display: block;
+    }
+}
+
+#orderContainer {
+    display: flex;
+    flex-direction: row;
+    div {
+        width: fit-content;
+        margin: auto;
+        margin-top: 0;
+        h4 {
+            margin-bottom: 5px;
+        }
+        &>* {
+            width: fit-content;
+        }
+    }
+}
+
+button {
+    margin-top: 25px;
+}

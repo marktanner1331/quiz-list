@@ -1,0 +1,355 @@
+[{
+        "name": "ALFRED THE GREAT",
+        "start": 871,
+        "end": 899,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDWARD (The Elder)",
+        "start": 899,
+        "end": 924,
+        "house": "Saxon"
+    },
+    {
+        "name": "ATHELSTAN",
+        "start": 924,
+        "end": 939,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDMUND",
+        "start": 939,
+        "end": 946,
+        "house": "Saxon"
+    },
+    {
+        "name": "EADRED",
+        "start": 946,
+        "end": 955,
+        "house": "Saxon"
+    },
+    {
+        "name": "EADWIG",
+        "start": 955,
+        "end": 959,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDGAR",
+        "start": 959,
+        "end": 975,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDWARD THE MARTYR",
+        "start": 975,
+        "end": 978,
+        "house": "Saxon"
+    },
+    {
+        "name": "AETHELRED II THE UNREADY",
+        "start": 978,
+        "end": 1016,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDMUND II IRONSIDE",
+        "start": 1016,
+        "end": 1016,
+        "house": "Saxon"
+    },
+    {
+        "name": "CANUTE (CNUT THE GREAT) THE DANE",
+        "start": 1016,
+        "end": 1035,
+        "house": "Saxon"
+    },
+    {
+        "name": "HAROLD I",
+        "start": 1035,
+        "end": 1040,
+        "house": "Saxon"
+    },
+    {
+        "name": "HARTHACANUTE",
+        "start": 1040,
+        "end": 1042,
+        "house": "Saxon"
+    },
+    {
+        "name": "EDWARD THE CONFESSOR",
+        "start": 1042,
+        "end": 1066,
+        "house": "Saxon"
+    },
+    {
+        "name": "HAROLD II",
+        "start": 1066,
+        "end": 1066,
+        "house": "Normans"
+    },
+    {
+        "name": "WILLIAM I(The Conqueror)",
+        "start": 1066,
+        "end": 1087,
+        "house": "Normans"
+    },
+    {
+        "name": "WILLIAM II (Rufus)",
+        "start": 1087,
+        "end": 1100,
+        "house": "Normans"
+    },
+    {
+        "name": "HENRY I",
+        "start": 1100,
+        "end": 1135,
+        "house": "Normans"
+    },
+    {
+        "name": "STEPHEN",
+        "start": 1135,
+        "end": 1154,
+        "house": "Normans"
+    },
+    {
+        "name": "HENRY II",
+        "start": 1154,
+        "end": 1189,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "RICHARD I (The Lionheart)",
+        "start": 1189,
+        "end": 1199,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "JOHN",
+        "start": 1199,
+        "end": 1216,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "HENRY III",
+        "start": 1216,
+        "end": 1272,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "EDWARD I",
+        "start": 1272,
+        "end": 1307,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "EDWARD II 1307 – deposed",
+        "start": 1327,
+        "end": 1327,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "EDWARD III",
+        "start": 1327,
+        "end": 1377,
+        "house": "Plantagenets"
+    },
+    {
+        "name": "RICHARD II 1377 – deposed",
+        "start": 1399,
+        "end": 1399,
+        "house": "Lancaster"
+    },
+    {
+        "name": "HENRY IV",
+        "start": 1399,
+        "end": 1413,
+        "house": "Lancaster"
+    },
+    {
+        "name": "HENRY V",
+        "start": 1413,
+        "end": 1422,
+        "house": "Lancaster"
+    },
+    {
+        "name": "HENRY VI 1422 – deposed",
+        "start": 1461,
+        "end": 1461,
+        "house": "York"
+    },
+    {
+        "name": "EDWARD IV",
+        "start": 1461,
+        "end": 1483,
+        "house": "York"
+    },
+    {
+        "name": "EDWARD V",
+        "start": 1483,
+        "end": 1483,
+        "house": "York"
+    },
+    {
+        "name": "RICHARD III",
+        "start": 1483,
+        "end": 1485,
+        "house": "York"
+    },
+    {
+        "name": "HENRY VII",
+        "start": 1485,
+        "end": 1509,
+        "house": "Tudor"
+    },
+    {
+        "name": "HENRY VIII",
+        "start": 1509,
+        "end": 1547,
+        "house": "Tudor"
+    },
+    {
+        "name": "EDWARD VI",
+        "start": 1547,
+        "end": 1553,
+        "house": "Tudor"
+    },
+    {
+        "name": "MARY I (Bloody Mary)",
+        "start": 1553,
+        "end": 1558,
+        "house": "Tudor"
+    },
+    {
+        "name": "ELIZABETH I",
+        "start": 1558,
+        "end": 1603,
+        "house": "Tudor"
+    },
+    {
+        "name": "JAMES I and VI of Scotland",
+        "start": 1603,
+        "end": 1625,
+        "house": "Stuart"
+    },
+    {
+        "name": "CHARLES 1",
+        "start": 1625,
+        "end": 1649,
+        "house": "Stuart"
+    },
+    {
+        "name": "OLIVER CROMWELL, Lord Protector",
+        "start": 1653,
+        "end": 1658,
+        "house": "Stuart"
+    },
+    {
+        "name": "RICHARD CROMWELL, Lord Protector",
+        "start": 1658,
+        "end": 1659,
+        "house": "Stuart"
+    },
+    {
+        "name": "CHARLES II",
+        "start": 1660,
+        "end": 1685,
+        "house": "Stuart"
+    },
+    {
+        "name": "JAMES II and VII of Scotland",
+        "start": 1685,
+        "end": 1688,
+        "house": "Stuart"
+    },
+    {
+        "name": "WILLIAM III",
+        "start": 1689,
+        "end": 1702,
+        "house": "Stuart"
+    },
+    {
+        "name": "MARY II",
+        "start": 1689,
+        "end": 1694,
+        "house": "Stuart"
+    },
+    {
+        "name": "ANNE",
+        "start": 1702,
+        "end": 1714,
+        "house": "Stuart"
+    },
+    {
+        "name": "GEORGE I",
+        "start": 1714,
+        "end": 1727,
+        "house": "Hanover"
+    },
+    {
+        "name": "GEORGE II",
+        "start": 1727,
+        "end": 1760,
+        "house": "Hanover"
+    },
+    {
+        "name": "GEORGE III",
+        "start": 1760,
+        "end": 1820,
+        "house": "Hanover"
+    },
+    {
+        "name": "GEORGE IV",
+        "start": 1820,
+        "end": 1830,
+        "house": "Hanover"
+    },
+    {
+        "name": "WILLIAM IV",
+        "start": 1830,
+        "end": 1837,
+        "house": "Hanover"
+    },
+    {
+        "name": "VICTORIA",
+        "start": 1837,
+        "end": 1901,
+        "house": "Hanover"
+    },
+    {
+        "name": "EDWARD VII",
+        "start": 1901,
+        "end": 1910,
+        "house": "Saxe-Coburg-Gotha"
+    },
+    {
+        "name": "GEORGE V",
+        "start": 1910,
+        "end": 1936,
+        "house": "Windsor"
+    },
+    {
+        "name": "EDWARD VIII June 1936 – abdicated December",
+        "start": 1936,
+        "end": 1936,
+        "house": "Windsor"
+    },
+    {
+        "name": "GEORGE VI",
+        "start": 1936,
+        "end": 1952,
+        "house": "Windsor"
+    },
+    {
+        "name": "ELIZABETH II",
+        "start": 1952,
+        "end": 2022,
+        "house": "Windsor"
+    },
+    {
+        "name": "King Charles III",
+        "start": 2022,
+        "end": 2022,
+        "house": "Windsor"
+    }
+]

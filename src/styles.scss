@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    height: 100%;
+    overflow-y: hidden;
+}
+
+body {
+    background-color: #1e4763;
+    color: white;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.big_button {
+    margin: auto;
+    display: block;
+    font-size: 120%;
+    padding: 5px 10px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    cursor: pointer;
+}

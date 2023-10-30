@@ -1,0 +1,93 @@
+[{
+        "name": "Old Fashioned",
+        "ingredients": "2 oz bourbon or rye whiskey\n2 dashes Angostura bitters\n1 sugar cube or 1 tsp sugar\nOrange twist garnish"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": "2 oz silver tequila\n1 oz Cointreau \n1 oz lime juice\nSalt for the rim"
+    },
+    {
+        "name": "Cosmopolitan ",
+        "ingredients": "1.5 oz citrus vodka\n1 oz Cointreau \n.5 oz lime juice\n.25 oz cranberry juice"
+    },
+    {
+        "name": "Negroni",
+        "ingredients": "1 oz gin\n1 oz Campari\n1 oz sweet vermouth"
+    },
+    {
+        "name": "Moscow Mule",
+        "ingredients": "2 oz vodka \n4 to 6 oz ginger beer\n.5 oz lime juice"
+    },
+    {
+        "name": "Martini",
+        "ingredients": "3 oz gin or vodka\n.5 oz dry vermouth\nLemon peel or olive"
+    },
+    {
+        "name": "Mojito",
+        "ingredients": "3 mint leaves\n2 oz white rum\n.75 oz lime juice\n.5 oz simple syrup"
+    },
+    {
+        "name": "Whiskey Sour",
+        "ingredients": "2 oz whiskey\n1 oz lemon juice\n1 tsp sugar\n1 egg white (optional)"
+    },
+    {
+        "name": "French 75",
+        "ingredients": "2 oz gin\n2 dashes simple syrup\n.5 oz lemon juice\nChampagne"
+    },
+    {
+        "name": "Manhattan",
+        "ingredients": "2 oz rye whiskey\n1 oz sweet vermouth\n2 dashes Angostura bitters"
+    },
+    {
+        "name": "Spritz",
+        "ingredients": "Equal parts Aperol\nEqual parts Cinzano Prosecco\nSplash of Soda"
+    },
+    {
+        "name": "Gimlet",
+        "ingredients": "2 oz gin or vodka\n.75 oz simple syrup\n.75 oz lime juice"
+    },
+    {
+        "name": "Sazerac",
+        "ingredients": "2 oz rye whiskey\n.5 oz simple syrup\n2 dashes Peychaud's bitters\nAbsinthe"
+    },
+    {
+        "name": "Pimm's Cup",
+        "ingredients": "50 ml (about 1.75 oz) Pimm's No.1\n150 ml (about 5 oz) lemonade\nMint, orange, strawberries\nCucumber to garnish"
+    },
+    {
+        "name": "Vesper",
+        "ingredients": "3 oz gin\n1 oz vodka\n.5 oz Lillet blanc"
+    },
+    {
+        "name": "Mimosa",
+        "ingredients": "2.5 oz champagne\n2.5 oz orange juice"
+    },
+    {
+        "name": "Tom Collins",
+        "ingredients": "2 oz Old Tom gin\n1 oz lemon juice\n.5 oz simple syrup\nClub soda to top"
+    },
+    {
+        "name": "Paloma",
+        "ingredients": "2 oz tequila\n.5 oz lime juice\nGrapefruit soda to top"
+    },
+    {
+        "name": "Sidecar",
+        "ingredients": "2 oz VS or VSOP Cognac\n1 oz Cointreau\n.75 oz lemon juice"
+    },
+    {
+        "name": "Mint Julep",
+        "ingredients": "2 oz bourbon\n8-10 mint leaves\n.25 oz simple syrup"
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": "2 oz light rum\n1 oz simple syrup\n1 oz lime juice"
+    },
+    {
+        "name": "Dark &amp; Stormy",
+        "ingredients": "1.5 oz Gosling’s Black Seal Rum\nGinger beer to top"
+    },
+    {
+        "name": "Martinez",
+        "ingredients": "1.5 oz Old Tom gin\n1.5 oz sweet vermouth\n.25 oz Luxardo maraschino liqueur\n2 dashes Angostura or orange bitters"
+    }
+]

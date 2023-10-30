@@ -1,0 +1,19 @@
+{
+    "science": {
+        "chemistry": ["periodic table"]
+    },
+    "history": {
+        "england": ["british monarchs"],
+        "europe": ["wars"],
+        "world": ["nato members"]
+    },
+    "languages": {
+        "french": ["animals"]
+    },
+    "food and drink": {
+        "alcohol": ["cocktails"]
+    },
+    "music": {
+        "classical": ["composers"]
+    }
+}
